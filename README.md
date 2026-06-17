@@ -103,6 +103,85 @@ motto: "Stay hungry, stay foolish."
 
 ---
 
+## 🧮 LeetCode 战绩 / LeetCode Stats
+
+<div align="center">
+
+<!-- LeetCode 中国站卡片（如果你的 LC 账号是 Yangnv，此卡片会自动渲染；否则请把 Yangnv 替换为你的 LeetCode username） -->
+<img src="https://leetcard.jacoblin.cool/Yangnv?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+<br/>
+
+<a href="https://leetcode.cn/u/Yangnv/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+<a href="https://www.nowcoder.com/">
+  <img src="https://img.shields.io/badge/牛客网-00B96B?style=for-the-badge&logo=verizon&logoColor=white" alt="Nowcoder" />
+</a>
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+
+</div>
+
+> 💡 *算法是程序员的内功，每日一题，持之以恒。*
+
+---
+
+## 🌟 项目展示 / Featured Projects
+
+<div align="center">
+
+<!-- 当你创建了公开项目仓库后，下面的卡片会自动展示，把 repo= 后面替换为仓库名即可 -->
+<a href="https://github.com/Yangnv/Yangnv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangnv&repo=Yangnv&theme=tokyonight&hide_border=true" />
+</a>
+
+<!--
+示例：复制下面这段，把 repo=YourRepoName 改成你的项目名即可
+
+<a href="https://github.com/Yangnv/YourRepoName">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yangnv&repo=YourRepoName&theme=tokyonight&hide_border=true" />
+</a>
+-->
+
+</div>
+
+| 🚧 | 项目 Project | 简介 Description | 技术栈 Stack |
+|----|-------------|-----------------|-------------|
+| 🌱 | **个人主页 Profile** | 这个仓库本身 — 持续美化的 GitHub 名片 | `Markdown` `SVG` |
+| 🔭 | **数据结构作业集** | 同济 CS 课程相关代码 (Coming Soon) | `C++` `STL` |
+| 🚀 | **算法刷题笔记** | 每日一题题解与思路总结 (Coming Soon) | `C++` `Python` |
+
+> ⭐ 关注我以获取最新项目动态！
+
+---
+
+## ✍️ 最新博客 / Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🌱 *博客系统建设中... Building my blog, stay tuned!*
+- 📝 计划平台：CSDN / 掘金 / 个人博客
+<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+<a href="https://blog.csdn.net/">
+  <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" />
+</a>
+<a href="https://juejin.cn/">
+  <img src="https://img.shields.io/badge/掘金-1E80FF?style=for-the-badge&logo=juejin&logoColor=white" alt="掘金" />
+</a>
+<a href="https://www.zhihu.com/">
+  <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎" />
+</a>
+
+</div>
+
+> 📌 *博客自动同步：上线博客后，把 RSS 链接配置到 [`gautamkrishnar/blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow) 即可让上方列表每日自动更新。*
+
+---
+
 ## 🎯 学习目标 / Goals
 
 - ✅ 掌握 C/C++ 与数据结构基础
